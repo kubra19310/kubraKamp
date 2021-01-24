@@ -1,0 +1,11 @@
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\bin\Debug\netcoreapp2.1\Metotlar1.deps.json
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\bin\Debug\netcoreapp2.1\Metotlar1.runtimeconfig.json
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\bin\Debug\netcoreapp2.1\Metotlar1.runtimeconfig.dev.json
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\bin\Debug\netcoreapp2.1\Metotlar1.dll
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\bin\Debug\netcoreapp2.1\Metotlar1.pdb
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\obj\Debug\netcoreapp2.1\Metotlar1.csprojAssemblyReference.cache
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\obj\Debug\netcoreapp2.1\Metotlar1.csproj.CoreCompileInputs.cache
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\obj\Debug\netcoreapp2.1\Metotlar1.AssemblyInfoInputs.cache
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\obj\Debug\netcoreapp2.1\Metotlar1.AssemblyInfo.cs
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\obj\Debug\netcoreapp2.1\Metotlar1.dll
+C:\Users\kübra\source\repos\Metotlar1\Metotlar1\obj\Debug\netcoreapp2.1\Metotlar1.pdb
